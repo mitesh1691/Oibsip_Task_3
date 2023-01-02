@@ -6,10 +6,7 @@ Project Name : ATM INTERFACE
 
 Program Explanation :
 
-🔷This Program Is Console Based Type. Here The Users Need To Type Their Name and User Name , Password As Well As Their Account Number For Sign Up Purposes.
+This program is console based type. Here, the users need to type their account number and password for logging in. After login users can perform multiple atm operation features like - withdraw, deposit, transfer, check balance, transaction history and exit.
 
-🔷Later Entering Same Information, Log In Can Be Done.
 
-🔷After Login Users Can Experience Multiple ATM Operation Features Like - Withdraw, Deposit, Transfer, Check Balance, Transaction History And Exit.
 
-🔷Programs Written Here Uses Core concepts Of Java programming Like - Object Creation For Scanner, Methods Declaration, if -else Statements , Try and Catch Block ( Exception Handling ) etc.
